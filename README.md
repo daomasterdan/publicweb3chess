@@ -2,9 +2,9 @@
 
 Please note!
 
-This scripts.js file is simply for hackathon demonstration purposes in order to help judges determine the authenticity of our code.
+This scripts.js file is simply for demonstration purposes.
 
-Due to the nature of our codebase, we've had to obscure most of it for IP reasons.
+Due to the nature of our codebase, we've had to obscure certain parts.
 
 Our codebase includes several .js, .css, .html and .sol files to handle game logic, client/server side logic, UI customisations and solidity/transaction logic.
 
